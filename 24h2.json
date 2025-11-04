@@ -3,7 +3,6 @@
   "name": "Defender For Endpoint Base Line 24H2",
   "description": "Ready for testing. ",
   "platforms": "windows10",
-  "technologies": "mdm",
   "roleScopeTagIds": [
     "0"
   ],
@@ -2208,4 +2207,5 @@
     "templateDisplayName": "Microsoft Defender for Endpoint Security Baseline",
     "templateDisplayVersion": "Version 24H1"
   }
+
 }
